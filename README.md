@@ -25,4 +25,4 @@
       - HTTP GET /:tree_id/child/:id
       => Return the list of child IDs
 
-4-Import apis collection to your postman : https://www.getpostman.com/collections/7e18b79b09424e8bf06b
+4-Import apis collection to your postman : https://www.getpostman.com/collections/9013dce7bf946f85a3a6
