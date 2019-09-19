@@ -8,6 +8,7 @@
    - Ruby version  : 2.6.3
    - Rails version : 6.0.0
    - enter the project and run this command : bundle install
+   - create DB : rails db:migrate
    - run the project with this command : rails s
 
 3-Apis :
