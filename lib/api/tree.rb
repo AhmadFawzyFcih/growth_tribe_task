@@ -1,6 +1,7 @@
 class Api::Tree
     def self.get(id)
-        tree_structure = Api::External.get("https://random-tree.herokuapp.com")
-        tree_structure[:data].first[1] == id.to_i ? tree_structure[:data] : []
+        file = File.read('public/tree.json')
+        data = JSON.parse(file)
+        data.first[1] == id.to_i ? data : []
     end
 end

@@ -1356,3 +1356,643 @@ Completed 200 OK in 3402ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 73
 Completed 200 OK in 2718ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 5538)
 
 
+Started GET "/1" for ::1 at 2019-09-19 03:48:10 +0200
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1123ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 3991)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:48:11 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 529ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 2377)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:49:28 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1366ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 6106)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:49:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 451ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2983)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:50:07 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 764ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 5477)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:50:08 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 403ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 3018)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:51:47 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 643ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 5049)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:48 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 364ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2313)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:51:52 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 417ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 4664)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:52 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Started GET "/1" for ::1 at 2019-09-19 03:51:52 +0200
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 392ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 5512)
+
+
+Completed 200 OK in 419ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 6301)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:53 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Started GET "/1" for ::1 at 2019-09-19 03:51:53 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 399ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 4983)
+
+
+Completed 200 OK in 385ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 6287)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:53 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Started GET "/1" for ::1 at 2019-09-19 03:51:54 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 397ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 4243)
+
+
+Completed 200 OK in 443ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 6179)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:54 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Started GET "/1" for ::1 at 2019-09-19 03:51:54 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 365ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 4241)
+
+
+Completed 200 OK in 410ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 7258)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:55 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 448ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2586)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:51:57 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 505ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 6379)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:51:57 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 2177ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2670)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:59:16 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 105432ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 17073)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:01:02 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Started GET "/1" for ::1 at 2019-09-19 04:01:45 +0200
+Completed 200 OK in 52162ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 6480)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 528)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:01:54 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms | Allocations: 107)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 04:02:02 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 106)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:02:02 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms | Allocations: 107)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 04:02:05 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 106)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:02:05 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 107)
+
+
+  
+JSON::ParserError (767: unexpected token at '{"id"=>1, "child"=>[{"id"=>7049, "child"=>[{"id"=>7503, "child"=>[]}, {"id"=>5535, "child"=>[]}]}, {"id"=>2863, "child"=>[{"id"=>3089, "child"=>[]}, {"id"=>8618, "child"=>[{"id"=>5647, "child"=>[]}, {"id"=>626, "child"=>[]}]}, {"id"=>7071, "child"=>[]}]}, {"id"=>3761, "child"=>[{"id"=>5158, "child"=>[]}, {"id"=>6720, "child"=>[]}]}, {"id"=>1632, "child"=>[{"id"=>4226, "child"=>[{"id"=>4630, "child"=>[{"id"=>2908, "child"=>[]}, {"id"=>8403, "child"=>[]}]}, {"id"=>2910, "child"=>[{"id"=>4393, "child"=>[]}, {"id"=>4948, "child"=>[]}]}, {"id"=>4853, "child"=>[{"id"=>2298, "child"=>[]}, {"id"=>6482, "child"=>[]}]}]}, {"id"=>9379, "child"=>[{"id"=>2700, "child"=>[]}, {"id"=>8795, "child"=>[]}]}, {"id"=>35, "child"=>[{"id"=>5525, "child"=>[]}, {"id"=>9906, "child"=>[]}, {"id"=>417, "child"=>[]}]}, {"id"=>4687, "child"=>[{"id"=>724, "child"=>[]}, {"id"=>4141, "child"=>[{"id"=>9428, "child"=>[]}, {"id"=>536, "child"=>[]}]}, {"id"=>7657, "child"=>[]}]}, {"id"=>3846, "child"=>[{"id"=>9771, "child"=>[{"id"=>7037, "child"=>[]}, {"id"=>6530, "child"=>[]}, {"id"=>7569, "child"=>[{"id"=>8827, "child"=>[]}, {"id"=>9900, "child"=>[]}]}]}, {"id"=>1552, "child"=>[]}, {"id"=>8024, "child"=>[{"id"=>4993, "child"=>[{"id"=>7541, "child"=>[]}, {"id"=>1689, "child"=>[]}]}, {"id"=>5151, "child"=>[]}, {"id"=>7111, "child"=>[{"id"=>8758, "child"=>[]}, {"id"=>7290, "child"=>[]}]}]}, {"id"=>6308, "child"=>[{"id"=>8168, "child"=>[]}, {"id"=>2238, "child"=>[]}]}]}]}, {"id"=>9735, "child"=>[]}, {"id"=>6620, "child"=>[]}]}
+'):
+  
+lib/api/tree.rb:4:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 04:02:24 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 75050ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 82912)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:03:39 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1849ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3679)
+
+
+Started GET "/1" for ::1 at 2019-09-19 04:05:23 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 368436ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 9028)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:11:32 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1488ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 4636)
+
+
+Started GET "/1/parent/6426" for ::1 at 2019-09-19 04:11:38 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6426"}
+Completed 500 Internal Server Error in 5982ms (ActiveRecord: 0.0ms | Allocations: 83943)
+
+
+  
+NoMethodError (undefined method `[]' for nil:NilClass):
+  
+lib/api/parent.rb:10:in `parent_ids'
+lib/api/parent.rb:6:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:11:45 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 8241ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 4145)
+
+
+Started GET "/1" for ::1 at 2019-09-19 04:12:03 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 38927ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 6182)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:12:42 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 1938)
+
+
+  
+NameError (undefined local variable or method `tree_structure' for Api::Tree:Class):
+  
+lib/api/tree.rb:5:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 04:12:44 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms | Allocations: 1512)
+
+
+  
+NameError (undefined local variable or method `tree_structure' for Api::Tree:Class):
+  
+lib/api/tree.rb:5:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:12:44 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms | Allocations: 1513)
+
+
+  
+NameError (undefined local variable or method `tree_structure' for Api::Tree:Class):
+  
+lib/api/tree.rb:5:in `get'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 04:13:12 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 3ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 3184)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:12 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1" for ::1 at 2019-09-19 04:13:14 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 2755)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:14 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1" for ::1 at 2019-09-19 04:13:17 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 2755)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:17 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1" for ::1 at 2019-09-19 04:13:17 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 2755)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:17 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6426" for ::1 at 2019-09-19 04:13:31 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6426"}
+Completed 200 OK in 11ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1755)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:31 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:13:38 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 447)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:13:38 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:14:15 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1028)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:14:15 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:14:55 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1036)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:14:55 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:16:39 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 21675ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 15392)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:17:01 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 445)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:17:32 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1024)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:17:32 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 445)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:20:50 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1036)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:20:50 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/7200" for ::1 at 2019-09-19 04:22:35 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"7200"}
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 1028)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:22:35 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/3400" for ::1 at 2019-09-19 04:22:53 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"3400"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 454)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:22:53 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:23:53 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 455)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:23:53 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:23:56 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 457)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:23:56 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:23:57 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 459)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:23:57 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:23:58 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 461)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:23:58 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:23:58 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 463)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:23:58 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:24:42 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1028)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:24:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/4062" for ::1 at 2019-09-19 04:24:50 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4062"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 451)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:24:50 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:02 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 451)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:02 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:27 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1023)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:27 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:28 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 451)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:28 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 447)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:28 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 451)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:29 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 451)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:25:37 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1024)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:25:37 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/6816" for ::1 at 2019-09-19 04:26:16 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6816"}
+Completed 200 OK in 2ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1022)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:26:16 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
+Started GET "/1/parent/5696" for ::1 at 2019-09-19 04:26:25 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"5696"}
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 455)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 04:26:25 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 446)
+
+
