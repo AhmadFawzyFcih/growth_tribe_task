@@ -6,10 +6,7 @@ class Api::Parent
         parent_ids(tree, node_id.to_i)
     end 
     
-    
     def self.parent_ids(tree, node_id)   
-        binding.pry
-
         if(tree["id"] == node_id)
             return true
         else
@@ -24,6 +21,5 @@ class Api::Parent
         end
         return @res
     end
-
 
 end
