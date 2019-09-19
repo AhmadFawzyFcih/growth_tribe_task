@@ -12,10 +12,7 @@
    - enter the project and run this command : bundle install
    - run the project with this command : rails s
 
-4-Import apis collection to your postman : https://www.getpostman.com/collections/7e18b79b09424e8bf06b
-
-6-Apis :
-      
+3-Apis :
       - HTTP GET /catch_structure
       => Catch and save tree structure in json file called tree.json in public folder
       
@@ -27,3 +24,5 @@
         
       - HTTP GET /:tree_id/child/:id
       => Return the list of child IDs
+
+4-Import apis collection to your postman : https://www.getpostman.com/collections/7e18b79b09424e8bf06b
