@@ -7,8 +7,6 @@
 
    - Ruby version  : 2.6.3
    - Rails version : 6.0.0
-   - Redis-server version : 3.2.1
-   - create mysql database
    - enter the project and run this command : bundle install
    - run the project with this command : rails s
 
