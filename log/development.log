@@ -1,0 +1,1337 @@
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+DEPRECATION WARNING: Using `bin/rake routes` is deprecated and will be removed in Rails 6.1. Use `bin/rails routes` instead.
+ (called from load at /home/com/.rvm/gems/ruby-2.6.3/bin/rake:23)
+Started GET "/" for ::1 at 2019-09-19 01:52:16 +0200
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/com/.rvm/gems/ruby-2.6.3/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/com/.rvm/gems/ruby-2.6.3/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.9ms | Allocations: 479)
+Completed 200 OK in 11ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 2783)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:52:16 +0200
+  
+SyntaxError (/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+        render json {data: "hahahhahah"}
+                         ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+...ender json {data: "hahahhahah"}
+...                              ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+Started GET "/1" for ::1 at 2019-09-19 01:52:23 +0200
+  
+SyntaxError (/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+        render json {data: "hahahhahah"}
+                         ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+...ender json {data: "hahahhahah"}
+...                              ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:52:23 +0200
+  
+SyntaxError (/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+        render json {data: "hahahhahah"}
+                         ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+...ender json {data: "hahahhahah"}
+...                              ^
+/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+app/controllers/trees_controller.rb:3: syntax error, unexpected ':', expecting '}'
+app/controllers/trees_controller.rb:3: syntax error, unexpected '}', expecting end
+app/controllers/trees_controller.rb:13: syntax error, unexpected end-of-input, expecting end
+Started GET "/1" for ::1 at 2019-09-19 01:53:11 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 159)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:53:11 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 89)
+
+
+Started GET "/1" for ::1 at 2019-09-19 01:53:47 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 115)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:53:47 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 88)
+
+
+Started GET "/1/parent/1" for ::1 at 2019-09-19 01:53:56 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 93)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:53:56 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 88)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 01:54:00 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 88)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:54:00 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 88)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 01:54:36 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 165)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:54:36 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 153)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 01:55:35 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 178)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:55:35 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 153)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 01:55:39 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 154)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:55:40 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 153)
+
+
+Started GET "/1/parent/10" for ::1 at 2019-09-19 01:55:43 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 153)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 01:55:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 153)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:06:14 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 579)
+
+
+  
+NoMethodError (undefined method `pry' for #<Binding:0x00007f17ad2a00f0>
+Did you mean?  try):
+  
+app/controllers/trees_controller.rb:4:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:06:14 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 544)
+
+
+  
+NoMethodError (undefined method `pry' for #<Binding:0x00007f17acb277b0>
+Did you mean?  try):
+  
+app/controllers/trees_controller.rb:4:in `show'
+Started GET "/1" for ::1 at 2019-09-19 02:06:27 +0200
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 4972ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 13886)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:06:32 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1976ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 3677)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:12:53 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 29132ms (ActiveRecord: 0.0ms | Allocations: 8029)
+
+
+  
+URI::InvalidURIError (bad URI(is not URI?): "http:// https://random-tree.herokuapp.com"):
+  
+lib/api/tree.rb:5:in `get'
+lib/api/tree_structure.rb:4:in `tree'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:13:23 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 4606ms (ActiveRecord: 0.0ms | Allocations: 3572)
+
+
+  
+URI::InvalidURIError (bad URI(is not URI?): "http:// https://random-tree.herokuapp.com"):
+  
+lib/api/tree.rb:5:in `get'
+lib/api/tree_structure.rb:4:in `tree'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 02:14:25 +0200
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 3024ms (ActiveRecord: 0.0ms | Allocations: 11213)
+
+
+  
+URI::InvalidURIError (bad URI(is not URI?): "http:// https://random-tree.herokuapp.com"):
+  
+lib/api/tree.rb:5:in `get'
+lib/api/tree_structure.rb:4:in `tree'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:14:28 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 500 Internal Server Error in 52499ms (ActiveRecord: 0.0ms | Allocations: 4170)
+
+
+  
+URI::InvalidURIError (bad URI(is not URI?): "http:// https://random-tree.herokuapp.com"):
+  
+lib/api/tree.rb:5:in `get'
+lib/api/tree_structure.rb:4:in `tree'
+app/controllers/trees_controller.rb:3:in `show'
+Started GET "/1" for ::1 at 2019-09-19 02:15:25 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 41122ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 206605)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:16:06 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 3746ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 9600)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:18:03 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 648ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 5475)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:18:03 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 607ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 4009)
+
+
+Started GET "/10" for ::1 at 2019-09-19 02:18:23 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 200 OK in 1293ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 3468)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:18:24 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 415ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 3684)
+
+
+Started GET "/10" for ::1 at 2019-09-19 02:18:47 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 200 OK in 1350ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 6395)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:18:49 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 424ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 4864)
+
+
+Started GET "/10" for ::1 at 2019-09-19 02:20:07 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 500 Internal Server Error in 235097ms (ActiveRecord: 0.0ms | Allocations: 18827)
+
+
+  
+NoMethodError (undefined method `[]' for nil:NilClass):
+  
+app/controllers/trees_controller.rb:4:in `show'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:24:02 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+SyntaxError (/home/com/Desktop/growth_tribe_task/app/controllers/trees_controller.rb:4: syntax error, unexpected tLABEL, expecting do or '{' or '('
+...tree.length == 0 ? render json: tree : render json: tree[:da...
+...                          ^~~~~):
+  
+app/controllers/trees_controller.rb:4: syntax error, unexpected tLABEL, expecting do or '{' or '('
+app/controllers/trees_controller.rb:4: syntax error, unexpected tLABEL, expecting do or '{' or '('
+Started GET "/10" for ::1 at 2019-09-19 02:26:37 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 200 OK in 3879ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 3079)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:26:41 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 767ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2367)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:26:48 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 511ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 6281)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:26:48 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 497ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2341)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:34:19 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 527ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 3645)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:34:19 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 425ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2398)
+
+
+Started GET "/10" for ::1 at 2019-09-19 02:34:23 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 200 OK in 487ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2380)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:34:23 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 451ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2410)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:34:26 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 525ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 6697)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:34:26 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 388ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2366)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:39:22 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1196ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 5808)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:39:24 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 400ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2447)
+
+
+Started GET "/10" for ::1 at 2019-09-19 02:39:26 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"10"}
+Completed 200 OK in 502ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2367)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:39:27 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 458ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2335)
+
+
+Started GET "/1" for ::1 at 2019-09-19 02:39:30 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 498ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 3696)
+
+
+Started GET "/1/parent/1" for ::1 at 2019-09-19 02:39:33 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 47745ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 84908)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:40:21 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 572ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2578)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:40:33 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms | Allocations: 1417)
+
+
+  
+NameError (expected file /home/com/Desktop/growth_tribe_task/lib/api/child.rb to define constant Api::Child, but didn't):
+  
+app/controllers/trees_controller.rb:14:in `child'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:40:33 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 874ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2812)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 02:41:29 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms | Allocations: 481)
+
+
+  
+NameError (expected file /home/com/Desktop/growth_tribe_task/lib/api/child.rb to define constant Api::Child, but didn't):
+  
+app/controllers/trees_controller.rb:14:in `child'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:41:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 876ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2719)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 02:41:49 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 1499ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 4240)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:41:51 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 600ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2395)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:41:56 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 442ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 3305)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:41:56 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 3697ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2648)
+
+
+Started GET "/10/child/10" for ::1 at 2019-09-19 02:42:02 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"10", "node_id"=>"10"}
+Completed 200 OK in 1339ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2352)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:42:04 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1048ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2679)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:42:09 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 974ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 4031)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:42:10 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1258ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2548)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:46:30 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 514ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 3312)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:46:30 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 423ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2392)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:46:39 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 500 Internal Server Error in 466ms (ActiveRecord: 0.0ms | Allocations: 4262)
+
+
+  
+NoMethodError (undefined method `child_ids' for Api::Child:Class):
+  
+lib/api/child.rb:4:in `get'
+app/controllers/trees_controller.rb:14:in `child'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:46:40 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 492ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 2392)
+
+
+Started GET "/1/child/10" for ::1 at 2019-09-19 02:46:43 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 518ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 3282)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:46:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 473ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2292)
+
+
+Started GET "/1/parent/10" for ::1 at 2019-09-19 02:47:27 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 8911ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 6808)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:47:36 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 548ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2547)
+
+
+Started GET "/1/parent/10" for ::1 at 2019-09-19 02:48:15 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 267244ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 205812)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:52:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1348ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2514)
+
+
+Started GET "/1/parent/10" for ::1 at 2019-09-19 02:52:56 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"10"}
+Completed 200 OK in 1373ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 5316)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 02:52:57 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 514ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2644)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:02:15 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 200 OK in 694ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4642)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:02:15 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 460ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2383)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:03:35 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 622ms (ActiveRecord: 0.0ms | Allocations: 3308)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:13:in `block in parent_ids'
+lib/api/parent.rb:12:in `each'
+lib/api/parent.rb:12:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:03:35 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 486ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2497)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:03:54 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 765ms (ActiveRecord: 0.0ms | Allocations: 3410)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:13:in `block in parent_ids'
+lib/api/parent.rb:12:in `each'
+lib/api/parent.rb:12:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:03:55 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 467ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2678)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:04:27 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 960ms (ActiveRecord: 0.0ms | Allocations: 3168)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:13:in `block in parent_ids'
+lib/api/parent.rb:12:in `each'
+lib/api/parent.rb:12:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:04:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 396ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2252)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:04:48 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 23079ms (ActiveRecord: 0.0ms | Allocations: 17028)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:11:in `[]'
+lib/api/parent.rb:11:in `parent_ids'
+lib/api/parent.rb:16:in `block in parent_ids'
+lib/api/parent.rb:15:in `each'
+lib/api/parent.rb:15:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:05:11 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1468ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2749)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:05:36 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 1658ms (ActiveRecord: 0.0ms | Allocations: 3198)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:13:in `block in parent_ids'
+lib/api/parent.rb:12:in `each'
+lib/api/parent.rb:12:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:05:37 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1092ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2725)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:06:30 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 1082ms (ActiveRecord: 0.0ms | Allocations: 3155)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:14:in `block in parent_ids'
+lib/api/parent.rb:13:in `each'
+lib/api/parent.rb:13:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:06:31 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 481ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 2517)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:07:08 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 200 OK in 1300ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 3165)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:07:09 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 458ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2635)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:07:32 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 78325ms (ActiveRecord: 0.0ms | Allocations: 163175)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:17:in `block in parent_ids'
+lib/api/parent.rb:16:in `each'
+lib/api/parent.rb:16:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:08:50 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1042ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2348)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:09:17 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 10193ms (ActiveRecord: 0.0ms | Allocations: 14576)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:11:in `[]'
+lib/api/parent.rb:11:in `parent_ids'
+lib/api/parent.rb:17:in `block in parent_ids'
+lib/api/parent.rb:16:in `each'
+lib/api/parent.rb:16:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:09:28 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 4788ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2387)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:09:56 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Completed 500 Internal Server Error in 928ms (ActiveRecord: 0.0ms | Allocations: 3503)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:8:in `[]'
+lib/api/parent.rb:8:in `parent_ids'
+lib/api/parent.rb:14:in `block in parent_ids'
+lib/api/parent.rb:13:in `each'
+lib/api/parent.rb:13:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:09:57 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 473ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 2367)
+
+
+Started GET "/1/parent/8411" for ::1 at 2019-09-19 03:10:28 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"8411"}
+Started GET "/1" for ::1 at 2019-09-19 03:12:25 +0200
+Completed 500 Internal Server Error in 149219ms (ActiveRecord: 0.0ms | Allocations: 26940)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:11:in `[]'
+lib/api/parent.rb:11:in `parent_ids'
+lib/api/parent.rb:19:in `block in parent_ids'
+lib/api/parent.rb:16:in `each'
+lib/api/parent.rb:16:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 908ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 4235)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:13:28 +0200
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1027ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 4440)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:13:29 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 569ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2401)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:13:41 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 500 Internal Server Error in 278037ms (ActiveRecord: 0.0ms | Allocations: 39559)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:11:in `[]'
+lib/api/parent.rb:11:in `parent_ids'
+lib/api/parent.rb:19:in `block in parent_ids'
+lib/api/parent.rb:16:in `each'
+lib/api/parent.rb:16:in `parent_ids'
+lib/api/parent.rb:4:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:18:19 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1327ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2470)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:25:37 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 500 Internal Server Error in 832ms (ActiveRecord: 0.0ms | Allocations: 3515)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:10:in `[]'
+lib/api/parent.rb:10:in `parent_ids'
+lib/api/parent.rb:15:in `block in parent_ids'
+lib/api/parent.rb:14:in `each'
+lib/api/parent.rb:14:in `parent_ids'
+lib/api/parent.rb:6:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:25:38 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 370ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2251)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:26:23 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 500 Internal Server Error in 13958ms (ActiveRecord: 0.0ms | Allocations: 16703)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:13:in `[]'
+lib/api/parent.rb:13:in `parent_ids'
+lib/api/parent.rb:18:in `block in parent_ids'
+lib/api/parent.rb:17:in `each'
+lib/api/parent.rb:17:in `parent_ids'
+lib/api/parent.rb:6:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:26:37 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1180ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2401)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:26:54 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 500 Internal Server Error in 41700ms (ActiveRecord: 0.0ms | Allocations: 26968)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:13:in `[]'
+lib/api/parent.rb:13:in `parent_ids'
+lib/api/parent.rb:18:in `block in parent_ids'
+lib/api/parent.rb:17:in `each'
+lib/api/parent.rb:17:in `parent_ids'
+lib/api/parent.rb:6:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:27:35 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1117ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 2469)
+
+
+Started GET "/users" for ::1 at 2019-09-19 03:27:45 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"users"}
+Completed 200 OK in 521ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2700)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:27:45 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 397ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2407)
+
+
+Started GET "/" for ::1 at 2019-09-19 03:27:48 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/com/.rvm/gems/ruby-2.6.3/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/com/.rvm/gems/ruby-2.6.3/gems/railties-6.0.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.4ms | Allocations: 196)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:27:48 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1924ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2325)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:27:53 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 908ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 3691)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:27:54 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 459ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2314)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:28:27 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:29:51 +0200
+Completed 500 Internal Server Error in 86523ms (ActiveRecord: 0.0ms | Allocations: 71490)
+
+
+  
+TypeError (no implicit conversion of String into Integer):
+  
+lib/api/parent.rb:13:in `[]'
+lib/api/parent.rb:13:in `parent_ids'
+lib/api/parent.rb:18:in `block in parent_ids'
+lib/api/parent.rb:17:in `each'
+lib/api/parent.rb:17:in `parent_ids'
+lib/api/parent.rb:6:in `get'
+app/controllers/trees_controller.rb:8:in `parent'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 892ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3456)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:29:55 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 410ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2428)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:29:57 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 457ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2642)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:29:58 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 463ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2485)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:30:10 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 1615ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3216)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:30:12 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 433ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2583)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:30:50 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 1373ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3342)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:30:52 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 769ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2348)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:31:51 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 967ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 3154)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:31:52 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 362ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2224)
+
+
+Started GET "/1/parent/2418" for ::1 at 2019-09-19 03:32:15 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"2418"}
+Completed 200 OK in 1440ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 3219)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:32:16 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 379ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2216)
+
+
+Started GET "/1/parent/4488" for ::1 at 2019-09-19 03:32:38 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4488"}
+Completed 200 OK in 1102ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2616)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:32:40 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 460ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2707)
+
+
+Started GET "/1/parent/4488" for ::1 at 2019-09-19 03:32:43 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4488"}
+Completed 200 OK in 722ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2326)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:32:44 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 710ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 2631)
+
+
+Started GET "/1/parent/4488" for ::1 at 2019-09-19 03:33:41 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4488"}
+Completed 200 OK in 980ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3470)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:33:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 519ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2521)
+
+
+Started GET "/1/parent/4488" for ::1 at 2019-09-19 03:33:56 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"4488"}
+Completed 200 OK in 927ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3229)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:33:57 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 459ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2309)
+
+
+Started GET "/1/parent/6426" for ::1 at 2019-09-19 03:35:10 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6426"}
+Completed 200 OK in 1065ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 3410)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:35:12 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 452ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2326)
+
+
+Started GET "/1/parent/6426" for ::1 at 2019-09-19 03:35:31 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6426"}
+Completed 200 OK in 922ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 3225)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:35:32 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 761ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2460)
+
+
+Started GET "/1/parent/6426" for ::1 at 2019-09-19 03:35:55 +0200
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"6426"}
+Started GET "/1" for ::1 at 2019-09-19 03:37:18 +0200
+Completed 200 OK in 98648ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 556909)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1049ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 4613)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:37:57 +0200
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Started GET "/1" for ::1 at 2019-09-19 03:37:57 +0200
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1138ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 8630)
+
+
+Completed 200 OK in 873ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 6701)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:37:58 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 657ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2523)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:02 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 375ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 2951)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:02 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 535ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2710)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:03 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 563ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 3125)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:03 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 455ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2357)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:05 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 422ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 5290)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:06 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 412ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2506)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:13 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 975ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 4143)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:14 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 758ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2439)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:15 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1026ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4381)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:16 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 660ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2429)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:19 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 458ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 3273)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:20 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 457ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2633)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:38:22 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 415ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 4235)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:38:22 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 462ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 2593)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:39:38 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 1376ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 3151)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:39:39 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 449ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2301)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:39:42 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 411ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 3182)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:39:43 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 403ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2311)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:39:44 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 480ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 3726)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:39:44 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 458ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 2425)
+
+
+Started GET "/1" for ::1 at 2019-09-19 03:39:47 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 454ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 3968)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 03:39:48 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 458ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 2903)
+
+
