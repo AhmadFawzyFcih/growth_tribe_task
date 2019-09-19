@@ -13,6 +13,7 @@
    - run the project with this command : rails s
 
 3-Apis :
+
       - HTTP GET /catch_structure
       => Catch and save tree structure in json file called tree.json in public folder
       
