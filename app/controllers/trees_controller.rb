@@ -13,4 +13,14 @@ class TreesController < ApplicationController
         child_ids = Api::Child.get(params[:id], params[:node_id])
         render json: child_ids        
     end
+
+    def catch_structure
+        tree_structure = Api::External.get("https://random-tree.herokuapp.com")
+        if(tree_structure[:status] == 200)
+          File.open("public/tree.json","w") do |f|
+            f.write(tree_structure[:data].to_json)
+          end
+        end 
+        render json: {tree: "updated"}
+    end
 end

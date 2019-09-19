@@ -5,5 +5,8 @@ Rails.application.routes.draw do
       get "parent/:node_id" => "trees#parent"
       get "child/:node_id" => "trees#child"
     end
+    collection do
+      get :catch_structure
+    end
   end  
 end
