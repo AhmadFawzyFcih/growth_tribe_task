@@ -5849,3 +5849,15 @@ Processing by TreesController#show as
 Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 436)
 
 
+Started GET "/1" for ::1 at 2019-09-19 18:54:47 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 3110)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 18:54:47 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 436)
+
+
