@@ -1,5 +1,4 @@
 class Api::Parent
-
     def self.get(id, node_id)
         @res = []
         tree = Api::Tree.get(id) 
@@ -18,5 +17,4 @@ class Api::Parent
             end
         end
     end
-
 end
