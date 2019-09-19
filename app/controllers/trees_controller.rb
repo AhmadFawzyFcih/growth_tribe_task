@@ -6,12 +6,12 @@ class TreesController < ApplicationController
 
     def parent
         parent_ids = Api::Parent.get(params[:id], params[:node_id])
-        render json: parent_ids      
+        render json: {parent_ids: parent_ids}      
     end
 
     def child
         child_ids = Api::Child.get(params[:id], params[:node_id])
-        render json: child_ids        
+        render json: {child_ids: child_ids}         
     end
 
     def catch_structure

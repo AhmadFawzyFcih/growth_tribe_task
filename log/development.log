@@ -5861,3 +5861,231 @@ Processing by TreesController#show as
 Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 436)
 
 
+Started GET "/1/child/1" for ::1 at 2019-09-19 22:51:14 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 1006)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:14 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 435)
+
+
+Started GET "/1/parent/1" for ::1 at 2019-09-19 22:51:17 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 576)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:17 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:30 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 436)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:53 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 808)
+
+
+Started GET "/1/parent/1" for ::1 at 2019-09-19 22:51:54 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 3ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 570)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:54 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:55 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 22:51:56 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 3ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 577)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:51:56 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 22:55:58 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 3109)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:55:58 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1" for ::1 at 2019-09-19 22:56:07 +0200
+Processing by TreesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 2665)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:56:07 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/5397" for ::1 at 2019-09-19 22:56:56 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"5397"}
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 458)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:56:56 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/1" for ::1 at 2019-09-19 22:57:06 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"1"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 2524)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:57:07 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:57:28 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 808)
+
+
+Started GET "/1/child/5397" for ::1 at 2019-09-19 22:57:30 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"5397"}
+Completed 200 OK in 3ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 665)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:57:30 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/5397" for ::1 at 2019-09-19 22:58:08 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"5397"}
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 1087)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:58:08 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/879" for ::1 at 2019-09-19 22:58:28 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"879"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 452)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:58:28 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/444" for ::1 at 2019-09-19 22:58:46 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"444"}
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 1570)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:58:46 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:58:59 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:59:51 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 812)
+
+
+Started GET "/1/child/444" for ::1 at 2019-09-19 22:59:52 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"444"}
+Completed 200 OK in 5ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 669)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 22:59:52 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/444" for ::1 at 2019-09-19 23:00:40 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"444"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 948)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 23:00:40 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/child/444" for ::1 at 2019-09-19 23:00:49 +0200
+Processing by TreesController#child as HTML
+  Parameters: {"id"=>"1", "node_id"=>"444"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 948)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 23:00:49 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+
+Started GET "/1/parent/444" for ::1 at 2019-09-19 23:01:09 +0200
+Processing by TreesController#parent as HTML
+  Parameters: {"id"=>"1", "node_id"=>"444"}
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 573)
+
+
+Started GET "/favicon.ico" for ::1 at 2019-09-19 23:01:09 +0200
+Processing by TreesController#show as 
+  Parameters: {"id"=>"favicon"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 434)
+
+

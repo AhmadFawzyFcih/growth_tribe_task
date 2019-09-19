@@ -1,24 +1,29 @@
-# README
+# Growth-Tribe-Task
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1-This is a simple application designed to catch tree structure from a random tree api and save this structure and perform many actions on this tree 
+  such as find Child/Parent nodes quickly:-
 
-Things you may want to cover:
+2-Here are the installation steps to run the project :
 
-* Ruby version
+   - Ruby version  : 2.6.3
+   - Rails version : 6.0.0
+   - Redis-server version : 3.2.1
+   - create mysql database
+   - enter the project and run this command : bundle install
+   - run the project with this command : rails s
 
-* System dependencies
+4-Import apis collection to your postman : https://www.getpostman.com/collections/7e18b79b09424e8bf06b
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+6-Apis :
+      
+      - HTTP GET /catch_structure
+      => Catch and save tree structure in json file called tree.json in public folder
+      
+      - HTTP GET /:tree_id
+      => Return the saved structure
+      
+      - HTTP GET /:tree_id/parent/:id
+      => Return the list of parents IDs
+        
+      - HTTP GET /:tree_id/child/:id
+      => Return the list of child IDs
