@@ -1,18 +1,20 @@
 class Api::Parent
     def self.get(id, node_id)
-        @res = []
+        @ids = []
         tree = Api::Tree.get(id) 
-        parent_ids(tree, node_id.to_i)
-        return @res
+        if (tree.length != 0)
+            parent_ids(tree, node_id.to_i)        
+        end
+        return @ids
     end 
     
-    def self.parent_ids(node, node_id)   
+    def self.parent_ids(node, node_id)
         if(node["id"] == node_id)
             return true
         end
-        node["child"].each do |child|
-            if( parent_ids(child, node_id) == true )
-                @res.push(node["id"])             
+        node["child"].each do |child_node|
+            if( parent_ids(child_node, node_id) == true )
+                @ids.push(node["id"])
                 return true
             end
         end
